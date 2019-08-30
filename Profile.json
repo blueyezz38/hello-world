@@ -1,0 +1,11 @@
+{
+  "name": {
+    "givenName": "Stacey",
+    "familyName": "Brown",
+    "formattedName": "Stacey Brown"
+  },
+  "displayName": "Stacey Brown",
+  "gender": {
+    "type": "female"
+  }
+}
